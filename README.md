@@ -11,3 +11,5 @@ The game includes multiple difficulty levels:
 | Level 5: Hard (foggy) |
 
 During gameplay, the player must avoid black obstacles, colliding with them will restart the current level.
+
+![Gameplay Demo](demo.gif)
